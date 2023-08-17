@@ -11,5 +11,5 @@ jobs:
 
     steps:
     - name: docker login
-      run: docker login -u acnaweb -p xpto
+      run: docker login -u acnaweb -p dckr_pat_aJwDJa1e8dNDHUtpBjq0IzjXcfI
       
