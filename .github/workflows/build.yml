@@ -12,4 +12,5 @@ jobs:
     steps:
     - name: docker login
       run: docker login -u gianninidoc -p dckr_pat_aJwDJa1e8dNDHUtpBjq0IzjXcfI
-      
+    - name: build image
+      run: docker build -t gianninidoc/ping .
