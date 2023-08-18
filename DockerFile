@@ -16,4 +16,4 @@ COPY --from=build /project/target/app.war /app/app.war
 
 WORKDIR /app
 
-CMD java $JAVA_OPTS -jar app.war 
+CMD java $JAVA_OPTS -jar app.war
