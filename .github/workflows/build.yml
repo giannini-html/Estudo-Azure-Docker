@@ -16,4 +16,4 @@ jobs:
     - name: build image
       run: docker build -t gianninidoc/ping .
     - name: push to docker
-      run: docker push gianninidoc/ping 
+      run: docker push gianninidoc/ping
