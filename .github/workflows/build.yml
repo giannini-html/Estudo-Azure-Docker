@@ -12,8 +12,8 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: docker login
-      run: docker login -u acnaweb -p dckr_pat_FgnEIS3MR27b3x8EwXSBN7AnNiM
+      run: docker login -u gianninidoc -p dckr_pat_FgnEIS3MR27b3x8EwXSBN7AnNiM
     - name: build image
-      run: docker build -t acnaweb/ping .
+      run: docker build -t gianninidoc/ping .
     - name: push to docker
-      run: docker push acnaweb/ping 
+      run: docker push gianninidoc/ping 
