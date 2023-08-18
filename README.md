@@ -59,7 +59,7 @@ mvn spring-boot:run
 #### Criando imagem
 ```
 docker build -t ping .
-```
+``` 
 
 #### Listando imagens
 
