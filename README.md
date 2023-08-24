@@ -14,7 +14,7 @@ Project Metadata/Name: ping
 Project Metadata/Description: API for Ping Pong
 Project Metadata/Package name: com.github.acnaweb.ping
 Project Metadata/Packaging: Jar
-Project Metadata/Java: 11
+Project Metadata/Java: 11 
 
 
 Dependencies:
