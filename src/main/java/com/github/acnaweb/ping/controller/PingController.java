@@ -12,6 +12,6 @@ public class PingController {
 
     @GetMapping("/ping")
     public String ping() {
-        return "Eu sou mto foda ";
+        return "Eu te amo ";
     }
 }
