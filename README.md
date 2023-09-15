@@ -12,7 +12,7 @@ API Java com Spring Boot para uso genérico adequada para criação de imagens d
 	- rs-rm89351
 - Acessar App Services
 	- Criar WebApp
-		- rm89351-ping
+		- rm89351-ping 
 	- Configurar deployment
 		- Acessar Central de Implentação
 		
